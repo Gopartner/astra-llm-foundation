@@ -1,0 +1,17 @@
+node_modules
+dist
+.next
+.turbo
+
+target
+
+__pycache__
+.venv
+
+.env
+
+checkpoints
+models
+datasets
+
+.DS_Store
